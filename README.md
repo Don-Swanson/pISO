@@ -4,7 +4,7 @@ pISO
 [![Build Status](https://travis-ci.org/ALSchwalm/pISO.svg?branch=master)](https://travis-ci.org/ALSchwalm/pISO)
 [![pipeline status](https://gitlab.com/ALSchwalm/pISO/badges/master/pipeline.svg)](https://gitlab.com/ALSchwalm/pISO/commits/master)
 
-First, clone the project with `git clone --recursive https://github.com/TheEagle13/pISO.git`
+First, clone the project with `git clone --single-branch --branch v1.4.0-beta.1 --recursive https://github.com/TheEagle13/pISO.git`
 
 Building with docker
 --------------------
